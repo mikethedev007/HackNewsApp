@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HackNewsApp.Api/HackNewsApp.Api.csproj" />
+  <Project Path="HackNewsApp.Application/HackNewsApp.Application.csproj" />
+  <Project Path="HackNewsApp.Domain/HackNewsApp.Domain.csproj" />
+  <Project Path="HackNewsApp.Infrastructure/HackNewsApp.Infrastructure.csproj" />
+</Solution>
