@@ -16,12 +16,11 @@
   </ItemGroup>
   
   <ItemGroup>
-    <Folder Include="Caching\" />
-    <Folder Include="DependencyInjection\" />
-    <Folder Include="Http\" />
     <Folder Include="HttpClients\" />
-    <Folder Include="Repositories\" />
-    <Folder Include="Policies\" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\HackNewsApp.Application\HackNewsApp.Application.csproj" />
   </ItemGroup>
 
 </Project>
