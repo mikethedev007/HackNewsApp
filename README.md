@@ -1,7 +1,7 @@
 # HackNewsApp
 
 
-This Web API App was written using .NET 8.0 C# and Visual Studio 2026 Community Edition (version 18.8.2). 
+This Web API App was written using .NET Core 8.0 C# and Visual Studio 2026 Community Edition (version 18.8.2). 
 It makes API calls to Hacker News API to retrieve a requested number of the best stories. the App's API  allows you 
 state how many of the best stories you want to retrieve and also sort the data by certain fields.
 
