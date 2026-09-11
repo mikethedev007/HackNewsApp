@@ -14,11 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DependencyInjection\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\HackNewsApp.Domain\HackNewsApp.Domain.csproj" />
   </ItemGroup>
 
