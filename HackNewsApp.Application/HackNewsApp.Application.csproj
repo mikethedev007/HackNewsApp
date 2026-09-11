@@ -14,16 +14,17 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Common\" />
-    <Folder Include="Contracts\Caching\" />
     <Folder Include="Contracts\Services\" />
     <Folder Include="Contracts\ResultExecution\" />
     <Folder Include="Contracts\Repositories\" />
     <Folder Include="DependencyInjection\" />
-    <Folder Include="DTOs\" />
     <Folder Include="Mappers\" />
     <Folder Include="Services\" />
     <Folder Include="Validators\Common\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HackNewsApp.Domain\HackNewsApp.Domain.csproj" />
   </ItemGroup>
 
 </Project>
