@@ -14,11 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Contracts\Services\" />
-    <Folder Include="Contracts\ResultExecution\" />
-    <Folder Include="Contracts\Repositories\" />
     <Folder Include="DependencyInjection\" />
-    <Folder Include="Mappers\" />
     <Folder Include="Services\" />
     <Folder Include="Validators\Common\" />
   </ItemGroup>

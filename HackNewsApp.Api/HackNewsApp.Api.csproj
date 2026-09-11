@@ -22,12 +22,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Authentication\" />
-    <Folder Include="Authorisation\" />
     <Folder Include="Controllers\v1\" />
-    <Folder Include="Extensions\" />
     <Folder Include="Middleware\" />
-    <Folder Include="ResultExecution\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HackNewsApp.Application\HackNewsApp.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>
